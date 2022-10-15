@@ -1,0 +1,99 @@
+body {
+  background-color: #DFF6FF;
+}
+
+nav {
+  float: left;
+  width: 20%;
+  height: 600px;
+}
+
+main {
+  float: left;
+  width: 60%;
+  text-align: center;
+  height: 600px;
+}
+
+aside {
+  float: left;
+  width: 20%;
+  height: 600px;
+}
+
+header {
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+}
+
+h1{
+font-family: "Montserrat";
+font-size: 2.2rem;
+}
+
+.header{
+  margin: 0px;
+  padding: 0px;
+}
+
+.main_para{
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+}
+
+.nav_items{
+  font-family: "Ubuntu";
+  font-size: 1.1rem;
+}
+
+.link_items{
+  font-family: "Ubuntu";
+  font-size: 1.1rem;
+}
+/*************************************about me*******************************/
+.about_me_header{
+  padding-top: 40px;
+  text-align: center;
+}
+
+.hobbies{
+  margin-left: 40%;
+  float: left;
+  text-align: left;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.about_me_para{
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.name{
+  font-size: 2.5rem;
+}
+
+.image{
+  height: 200px;
+  width: 200px;
+}
+
+/****************************Contact me***********************************/
+.form{
+  font-style: italic;
+  font-size: 1.2rem;
+}
+
+.Contact_para{
+  font-size: 1.4rem;
+  font-family: "Ubuntu";
+}
+
+.Contact_header{
+  font-size: 2.6rem;
+  font-family: "Montserrat";
+  line-height: 1;
+}
